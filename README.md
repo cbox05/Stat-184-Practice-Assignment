@@ -46,6 +46,6 @@ data/ contains datasets used in the analysis
 PLAN.md outlines the project approach
 Contact 
 
-Connor Box
+Connor Duncan Box
 Penn State University
 Computational Data Sciences
