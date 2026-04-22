@@ -1,5 +1,5 @@
 ---
-title: "HW 4.3 - Reproducible Data Analysis"
+title: "Stat 184 - HW 4.3 - Reproducible Data Analysis"
 author: "Connor Box"
 date: "April 14, 2026"
 format: pdf
